@@ -1,0 +1,12 @@
+@import url('https://fonts.googleapis.com/css2?family=Nunito:wght@500;600;700;900;1000&display=swap');
+
+
+.tabtext{
+    font-size: 17px !important;
+    font-weight: 700 !important;
+    font-family: 'Nunito', sans-serif !important;
+    text-transform: lowercase !important;
+    background-color: #000000;
+    color: white;
+}
+

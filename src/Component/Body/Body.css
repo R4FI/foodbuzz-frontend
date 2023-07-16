@@ -1,0 +1,13 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Prompt:wght@800;900&display=swap');
+
+.bodyspan{
+    color: white;
+    font-size: 35px;
+    background-color: #6415FF;
+    font-family: 'Prompt', sans-serif;
+    border-radius: 0.25rem;
+    transform: skew(-15deg);
+    width: 280px;
+    padding: 5px;
+}

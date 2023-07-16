@@ -1,0 +1,21 @@
+@import url('https://fonts.googleapis.com/css2?family=Raleway:wght@400;500;600;700&display=swap');
+/* .tabtext label{
+  text-transform: capitalize !important;
+  text-align: left !important;
+  font-family: 'Raleway', sans-serif;
+} */
+
+.css-1h9z7r5-MuiButtonBase-root-MuiTab-root{
+  text-transform: capitalize !important;
+  text-align: left !important;
+  font-family: 'Raleway', sans-serif;
+  font-size: 18px !important;
+  font-weight: 500 !important;
+  color: black !important;
+
+}
+.formcontain{
+  width: 30% !important;
+  color: black;
+}
+
